@@ -1,0 +1,121 @@
+_repo: Candide_19942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: "Candide, ou l'Optimisme, (; French: [kɑ̃did]) is a French satire first\
+  \ published in 1759 by Voltaire, a philosopher of the Age of Enlightenment. The\
+  \ novella has been widely translated, with English versions titled Candide: or,\
+  \ All for the Best (1759); Candide: or, The Optimist (1762); and Candide: Optimism\
+  \ (1947). It begins with a young man, Candide, who is living a sheltered life in\
+  \ an Edenic paradise and being indoctrinated with Leibnizian optimism by his mentor,\
+  \ Professor Pangloss. The work describes the abrupt cessation of this lifestyle,\
+  \ followed by Candide's slow and painful disillusionment as he witnesses and experiences\
+  \ great hardships in the world. Voltaire concludes with Candide, if not rejecting\
+  \ Leibnizian optimism outright, advocating a deeply practical precept, \"we must\
+  \ cultivate our garden\", in lieu of the Leibnizian mantra of Pangloss, \"all is\
+  \ for the best\" in the \"best of all possible worlds\".\nCandide is characterized\
+  \ by its tone as well as by its erratic, fantastical, and fast-moving plot. A picaresque\
+  \ novel with a story similar to that of a more serious coming-of-age narrative (Bildungsroman),\
+  \ it parodies many adventure and romance clichés, the struggles of which are caricatured\
+  \ in a tone that is bitter and matter-of-fact. Still, the events discussed are often\
+  \ based on historical happenings, such as the Seven Years' War and the 1755 Lisbon\
+  \ earthquake. As philosophers of Voltaire's day contended with the problem of evil,\
+  \ so does Candide in this short novel, albeit more directly and humorously. Voltaire\
+  \ ridicules religion, theologians, governments, armies, philosophies, and philosophers.\
+  \ Through Candide, he assaults Leibniz and his optimism.\nAs predicted by Voltaire\
+  \ Candide has enjoyed both great success and great scandal. Immediately after its\
+  \ secretive publication, the book was widely banned to the public because it contained\
+  \ religious blasphemy, political sedition, and intellectual hostility hidden under\
+  \ a thin veil of naïveté. However, with its sharp wit and insightful portrayal of\
+  \ the human condition, the novel has since inspired many later authors and artists\
+  \ to mimic and adapt it. Today, Candide is recognized as Voltaire's magnum opus\
+  \ and is often listed as part of the Western canon. It is among the most frequently\
+  \ taught works of French literature. The British poet and literary critic Martin\
+  \ Seymour-Smith listed Candide as one of the 100 most influential books ever written.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Best Books Ever Listings
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19942'
+  wikidata: Q215894
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Optimism -- Fiction'
+- !lcsh 'Satire'
+- !lcc 'PQ'
+title: Candide
+url: http://www.gutenberg.org/ebooks/19942
+wikipedia:
+- https://fi.wikipedia.org/wiki/Candide
+- https://eo.wikipedia.org/wiki/Kandid_a%C5%AD_la_optimismo
+- https://fr.wikiquote.org/wiki/Candide,_ou_l%27Optimisme
+- https://ceb.wikipedia.org/wiki/Candide
+- https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%AF
+- https://no.wikipedia.org/wiki/Candide
+- https://en.wikisource.org/wiki/Candide
+- https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%A6%E0%A9%80%E0%A8%A6
+- https://commons.wikimedia.org/wiki/Category:Candide
+- https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D1%96%D0%B4
+- https://el.wikipedia.org/wiki/%CE%91%CE%B3%CE%B1%CE%B8%CE%BF%CF%8D%CE%BB%CE%B7%CF%82
+- https://fr.wikisource.org/wiki/Candide,_ou_l%E2%80%99Optimisme
+- https://it.wikisource.org/wiki/Candido
+- https://pt.wikisource.org/wiki/Em_Tradu%C3%A7%C3%A3o:C%C3%A2ndido
+- https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89
+- https://pt.wikipedia.org/wiki/C%C3%A2ndido,_ou_O_Otimismo
+- https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BE%E0%B5%BB%E0%B4%A1%E0%B5%80%E0%B4%A1%E0%B5%8D
+- https://de.wikisource.org/wiki/Kandide
+- https://es.wikipedia.org/wiki/C%C3%A1ndido
+- https://en.wikipedia.org/wiki/Candide
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4,_%D0%B8%D0%BB%D0%B8_%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%BC
+- https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%A8%E0%A6%A6%E0%A6%BF%E0%A6%A6
+- https://ko.wikipedia.org/wiki/%EC%BA%89%EB%94%94%EB%93%9C
+- https://fr.wikipedia.org/wiki/Candide
+- https://zh.wikipedia.org/wiki/%E6%86%A8%E7%AC%AC%E5%BE%B7
+- https://ca.wikiquote.org/wiki/C%C3%A0ndid_o_l%27optimisme
+- https://pl.wikipedia.org/wiki/Kandyd_(powiastka_filozoficzna)
+- https://da.wikipedia.org/wiki/Candide
+- https://sv.wikipedia.org/wiki/Candide
+- https://th.wikipedia.org/wiki/%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%94
+- https://hu.wikipedia.org/wiki/Candide
+- https://is.wikipedia.org/wiki/Birt%C3%ADngur
+- https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4
+- https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%86%D8%AF%D9%8A%D8%AF_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/Candide
+- https://id.wikipedia.org/wiki/Candide
+- https://sl.wikipedia.org/wiki/Kandid_ali_Optimizem
+- https://cs.wikipedia.org/wiki/Candide
+- https://de.wikipedia.org/wiki/Candide_oder_der_Optimismus
+- https://lt.wikipedia.org/wiki/Kandidas
+- https://ur.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%AF
+- https://lv.wikipedia.org/wiki/Kandids
+- https://en.wikiquote.org/wiki/Candide
+- https://cy.wikipedia.org/wiki/Candide
+- https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4_%D0%B8%D0%BB%D0%B8_%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%BC%D1%8A%D1%82
+- https://pl.wikisource.org/wiki/Kandyd,_czyli_Optymizm
+- https://it.wikipedia.org/wiki/Candido
+- https://br.wikipedia.org/wiki/Candide
+- https://la.wikipedia.org/wiki/Candide
+- https://ca.wikipedia.org/wiki/C%C3%A0ndid_o_l%27optimisme
+- https://he.wikipedia.org/wiki/%D7%A7%D7%A0%D7%93%D7%99%D7%93
+- https://tr.wikipedia.org/wiki/Candide
+- https://es.wikiquote.org/wiki/C%C3%A1ndido_o_el_optimismo
