@@ -47,6 +47,8 @@ description: "Candide, ou l'Optimisme, (; French: [kɑ̃did]) is a French satire
   \ taught works of French literature. The British poet and literary critic Martin\
   \ Seymour-Smith listed Candide as one of the 100 most influential books ever written.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19942#Candide
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Best Books Ever Listings
